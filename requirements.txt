@@ -1,0 +1,4 @@
+aiogram>=3.27.0,<4
+aiohttp>=3.13.5,<4
+python-dotenv>=1.0.1
+paramiko>=4.0.0,<5
